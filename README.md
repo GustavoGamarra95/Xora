@@ -1,55 +1,34 @@
-<div align="center">
-  <br />
-    <a href="https://xora-landing-page-v1.netlify.app/" target="_blank">
-      <img src="https://github.com/JotaP07/xora-landing-page/blob/master/home-page-img.png" width="80%" alt="Project Banner">
-    </a>
-  <br />
-</div>
+# Xora
 
-
-# Landing Page - Video Editor AI
-
-This is a landing page project for an AI video editor, developed using React and Tailwind CSS. The design was inspired by the GitHub repository and YouTube tutorial by [Adrian Hajdin](https://github.com/adrianhajdin).
-
-## Project Objective
-Enhance my front-end development skills by deepening my understanding of React Hooks and improving my proficiency in Tailwind CSS.
-
-## Prerequisites
-
-Before you begin, make sure you have Node.js and npm installed on your machine.
+## Description
+A brief description of what this project does and who it's for. Update this section with project-specific information.
 
 ## Installation
-
-1. Clone this repository:
-
-   ```bash
-   git clone https://github.com/JotaP07/xora-landing-page/
-   cd xora-landing-page
-   ```
-
-2. Install the project dependencies. **Make sure to include the `--legacy-peer-deps` flag**, as `react-slideshow` is not yet compatible with React 18:
-
-   ```bash
-   npm install --legacy-peer-deps
-   ```
-
-## Running the Project
-
-To run the application, use the following command:
-
 ```bash
-npm run dev
+# Clone the repository
+git clone https://github.com/GustavoGamarra95/Xora.git
+
+# Navigate to the project directory
+cd xora
+
+# Install dependencies
+npm install  # or your package manager's install command
 ```
 
-This will start the development server, and you can access the application at `http://localhost:<some-port>`.
+## Usage
+```bash
+# Basic usage example
+npm start    # or your project's start command
+```
 
-## Contribution
+Describe how to use your project, including any important configuration steps or prerequisites.
 
-Feel free to contribute by improving or fixing issues in the project. Just create a fork of this repository and submit a pull request.
+## Contributing
+Contributions are welcome! Please feel free to submit a Pull Request.
 
-## Additional Resources I Made
-- Some padding and margin fixes, still missing some improvements
-- minimal change in header size and transition to Nav - Mobile 
-- Change in the size of some icons
-- Still missing some responsiveness adjustments
+1. Fork the project
+2. Create your feature branch (`git checkout -b feature/AmazingFeature`)
+3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
+4. Push to the branch (`git push origin feature/AmazingFeature`)
+5. Open a Pull Request
 
