@@ -12,7 +12,7 @@ git clone https://github.com/GustavoGamarra95/Xora.git
 cd xora
 
 # Install dependencies
-npm install  # or your package manager's install command
+npm install --legacy-peer-deps  # or your package manager's install command
 ```
 
 ## Usage
